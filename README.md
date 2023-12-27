@@ -1,3 +1,4 @@
+Manual Testing (Daraz Website)
 Hello and welcome! This GitHub repository contains the manual testing documentation (excel file) for daraz.com.bd, Bangladesh's number one online shopping store. This repository contains essential information and illustration related to the manual testing process conducted on the daraz.com.bd website.
 
 Contents
